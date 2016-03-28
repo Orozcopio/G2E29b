@@ -1,0 +1,6 @@
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E29b\G2E29b\bin\Debug\G2E29b.exe.config
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E29b\G2E29b\bin\Debug\G2E29b.exe
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E29b\G2E29b\bin\Debug\G2E29b.pdb
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E29b\G2E29b\obj\Debug\G2E29b.csprojResolveAssemblyReference.cache
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E29b\G2E29b\obj\Debug\G2E29b.exe
+c:\users\mauricioalexander\documents\visual studio 2015\Projects\G2E29b\G2E29b\obj\Debug\G2E29b.pdb
